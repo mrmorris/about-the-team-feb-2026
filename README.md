@@ -3,6 +3,6 @@
 Welcome to the Git class!
 
 * Ryan Morris
-* [<--- Next name here]
+* Jonathan Kwan
 
 Formed in February, 2026
