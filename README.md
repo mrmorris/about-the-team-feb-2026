@@ -1,1 +1,8 @@
-# about-the-team-feb-2026
+# About the Team
+
+Welcome to the Git class!
+
+* Ryan Morris
+* [<--- Next name here]
+
+Formed in February, 2026
