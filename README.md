@@ -3,6 +3,6 @@
 Welcome to the Git class!
 
 * Ryan Morris
-* [<--- Next name here]
+* Lindsey Lawson
 
 Formed in February, 2026
