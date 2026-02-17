@@ -5,6 +5,7 @@ Welcome to the Git class!
 * Ryan Morris
 * Abe Lincoln
 * Bad Robot
-* [<--- Next name here]
+* Lindsey Lawson
+
 
 Formed in February, 2026
