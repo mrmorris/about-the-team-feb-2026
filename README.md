@@ -4,6 +4,8 @@ Welcome to the Git class!
 
 * Ryan Morris
 * Aditi Srivastava :D
+* Abe Lincoln
+* Bad Robot
 * [<--- Next name here]
 
 Formed in February, 2026
